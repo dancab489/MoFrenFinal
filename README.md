@@ -1,5 +1,5 @@
-# bootstrap-boilerplate
-2022 April 11 challenge of the day
+# Final Project
+The following contains my final submission to fulfill the course called Mobile Friendly Websites. 
 
 ## About
-Learning to build mobile friendly websites. This is a continuation of learning to build websites as a beginner. Repositories and branches become increasingly familiar. 
+A mobile friendly website with a link to an RNG that I intend to build. 
